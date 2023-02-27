@@ -6,9 +6,9 @@ Sidenote - this was made on a Unix based machine, sorry in advanced if it loads 
 
 Make sure the movie file is in the same directory as this script.
 
-![Alt Text]( https://raw.githubusercontent.com/MichaelLacock/Gif_Maker/blob/main/Gif_Maker/screenshots/1.png)
+![Alt Text]( https://github.com/MichaelLacock/Gif_Maker/blob/main/Gif_Maker/screenshots/1.png?raw=true)
 
-![Alt Text]( https://github.com/MichaelLacock/Gif_Maker/blob/main/Gif_Maker/screenshots/screenshots/2.png)
+![Alt Text]( https://github.com/MichaelLacock/Gif_Maker/blob/main/Gif_Maker/screenshots/2.png?raw=true)
 
 NOTE: The greater the resolution is, the more taxing it is to load the bitmap TileGrid in DisplayIO, resulting in far lower frame rates.
 
